@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Kolik farem EU ztratila?",
+  "subtitle": "Do roku 2023 měla EU o 5,6 milionu farem méně než v roce 2005, což představuje odhadovaný pokles o 39 %. Z 8,77 milionu zbývajících farem se téměř každá třetí nacházela v Rumunsku.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Mapa počítá zemědělské podniky všech velikostí a právních forem. Průměrná farma se rozrostla z přibližně 11 na 18 hektarů.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
+  "customUnitLabel": "farmy",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
