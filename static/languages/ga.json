@@ -1,13 +1,12 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "Cé mhéad feirm atá caillte ag an AE?",
+  "subtitle": "Faoi 2023, bhí 5.6 milliún feirm níos lú san AE ná mar a bhí in 2005, laghdú measta de 39%. De na 8.77 milliún feirm atá fágtha, bhí beagnach ceann amháin as gach triúr sa Rómáin.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
+  "textNote": "Áirítear ar an léarscáil gabháltais talmhaíochta de gach méid agus foirm dhlíthiúil. D'fhás an fheirm mheánach ó thart ar 11 go 18 heicteár.",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
+  "customUnitLabel": "feirmeacha",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
