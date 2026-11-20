@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
-  "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "title": "Kuinka monta maatilaa EU on menettänyt?",
+  "subtitle": "Vuoteen 2023 mennessä EU:ssa oli 5,6 miljoonaa maatilaa vähemmän kuin vuonna 2005, mikä on arviolta 39 %:n lasku. Jäljellä olevista 8,77 miljoonasta maatilasta lähes joka kolmas sijaitsi Romaniassa.",
+  "textNoteDescription": "Huomautus",
+  "textNote": "Kartta laskee mukaan kaikenkokoisia ja -muotoisia maatiloja. Keskimääräinen maatila kasvoi noin 11 hehtaarista 18 hehtaariin.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "legend1": "Ei tietoja saatavilla",
+  "customUnitLabel": "maatilat",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
