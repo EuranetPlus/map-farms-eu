@@ -1,13 +1,12 @@
 {
-  "title": "¿Qué países de la UE ofrecen las mejores perspectivas de empleo?",
-  "subtitle": "Se estima que el crecimiento futuro del empleo en estos países en el período 2022-2035 será del 5,6%.",
+  "title": "¿Cuántas explotaciones agrícolas ha perdido la UE?",
+  "subtitle": "En 2023, la UE contaba con 5,6 millones de explotaciones agrícolas menos que en 2005, lo que supone un descenso estimado del 39 %. De los 8,77 millones de explotaciones restantes, casi una de cada tres se encontraba en Rumanía.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "El mapa contabiliza las explotaciones agrícolas de todos los tamaños y formas jurídicas. La superficie media de las explotaciones aumentó de unas 11 a 18 hectáreas.",
   "textSourceDescription": "Fuente",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Acceder a los datos",
-  "extraInfo_DE": "Alemania acelera el despliegue de energía renovable y aspira a que el 80 % de su energía sea limpia en 2030",
-  "extraInfo_FR": "El Parlamento francés aprueba un importante proyecto de ley de reforma migratoria en medio de protestas a nivel nacional",
   "legend1": "No hay datos disponibles",
+  "customUnitLabel": "granjas",
   "tooltipExtraInfoLabel": "haga clic aquí"
 }
