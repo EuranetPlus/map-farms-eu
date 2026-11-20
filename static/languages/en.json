@@ -1,13 +1,12 @@
 {
-  "title": "Which EU countries offer the best employment prospects?",
-  "subtitle": "Future employment growth in these countries in 2022-2035 is estimated at 5.6%.",
+  "title": "How many farms has the EU lost?",
+  "subtitle": "By 2023, the EU had 5.6 million fewer farms than in 2005, an estimated drop of 39%. Of the 8.77 million farms remaining, nearly one in three was in Romania.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "The map counts agricultural holdings of all sizes and legal forms. The average farm grew from about 11 to 18 hectares.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Access the data",
-  "extraInfo_DE": "Germany Accelerates Renewable Energy Rollout, Targets 80% Clean Power by 2030",
-  "extraInfo_FR": "French Parliament Approves Major Immigration Reform Bill Amid Nationwide Protests",
   "legend1": "No data available",
+  "customUnitLabel": "farms",
   "tooltipExtraInfoLabel": "Click here"
 }
