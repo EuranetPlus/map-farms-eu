@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Koliko kmetij je EU izgubila?",
+  "subtitle": "Do leta 2023 je imela EU 5,6 milijona kmetij manj kot leta 2005, kar je ocenjeno zmanjšanje za 39 %. Od preostalih 8,77 milijona kmetij jih je skoraj vsaka tretja v Romuniji.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Zemljevid prešteva kmetijska gospodarstva vseh velikosti in pravnih oblik. Povprečna kmetija se je povečala z približno 11 na 18 hektarjev.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
-  "legend1": "Ni podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "customUnitLabel": "kmetije",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
