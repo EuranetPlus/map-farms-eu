@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Ile gospodarstw rolnych straciła UE?",
+  "subtitle": "Do 2023 roku w UE było o 5,6 miliona gospodarstw rolnych mniej niż w 2005 roku, co stanowi spadek o 39%. Z pozostałych 8,77 miliona gospodarstw prawie co trzecie znajdowało się w Rumunii.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "Mapa uwzględnia gospodarstwa rolne o różnej wielkości i formach prawnych. Przeciętna powierzchnia gospodarstwa wzrosła z około 11 do 18 hektarów.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Dostęp do danych",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "gospodarstwa",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
