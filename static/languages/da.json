@@ -1,13 +1,12 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvor mange landbrug har EU mistet?",
+  "subtitle": "I 2023 havde EU 5,6 millioner færre landbrug end i 2005, et anslået fald på 39 %. Af de 8,77 millioner landbrug, der var tilbage, lå næsten hver tredje i Rumænien.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Kortet tæller landbrugsbedrifter i alle størrelser og juridiske former. Den gennemsnitlige gård voksede fra omkring 11 til 18 hektar.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
-  "legend1": "Ingen tilgængelige data",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "customUnitLabel": "gårde",
   "tooltipExtraInfoLabel": "Klik her"
 }
