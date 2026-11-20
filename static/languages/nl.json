@@ -1,13 +1,12 @@
 {
-  "title": "Welke EU-landen bieden de beste werkgelegenheidsvooruitzichten?",
-  "subtitle": "De toekomstige werkgelegenheidsgroei in deze landen in de periode 2022-2035 wordt geschat op 5,6%.",
+  "title": "Hoeveel boerderijen heeft de EU verloren?",
+  "subtitle": "In 2023 telde de EU 5,6 miljoen minder landbouwbedrijven dan in 2005, een geschatte daling van 39%. Van de overgebleven 8,77 miljoen landbouwbedrijven bevond bijna een derde zich in Roemenië.",
   "textNoteDescription": "Opmerking",
-  "textNote": "sdchdc",
+  "textNote": "De kaart toont landbouwbedrijven van alle groottes en rechtsvormen. De gemiddelde boerderij groeide van ongeveer 11 naar 18 hectare.",
   "textSourceDescription": "Bron",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Toegang tot de gegevens",
-  "extraInfo_DE": "Duitsland versnelt uitrol van hernieuwbare energie, streeft naar 80% schone energie in 2030",
-  "extraInfo_FR": "Frans parlement keurt groot wetsvoorstel immigratiehervorming goed te midden van landelijke protesten",
   "legend1": "Geen gegevens beschikbaar",
+  "customUnitLabel": "boerderijen",
   "tooltipExtraInfoLabel": "Klik hier"
 }
