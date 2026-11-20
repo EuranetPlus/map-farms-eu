@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek ūkių prarado ES?",
+  "subtitle": "Iki 2023 m. ES buvo 5,6 mln. ūkių mažiau nei 2005 m. – tai maždaug 39 % sumažėjimas. Iš likusių 8,77 mln. ūkių beveik vienas iš trijų buvo Rumunijoje.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Žemėlapyje suskaičiuoti įvairaus dydžio ir teisinės formos žemės ūkio valdos. Vidutinis ūkis augo nuo maždaug 11 iki 18 hektarų.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas (2026 m.)",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "ūkiai",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
