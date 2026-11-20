@@ -1,13 +1,12 @@
 {
-  "title": "Kuras ES valstis piedāvā vislabākās nodarbinātības izredzes?",
-  "subtitle": "Nākotnes nodarbinātības pieaugums šajās valstīs 2022.-2035.gadā tiek lēsts 5,6% apmērā.",
+  "title": "Cik saimniecību ES ir zaudējusi?",
+  "subtitle": "Līdz 2023. gadam ES bija par 5,6 miljoniem saimniecību mazāk nekā 2005. gadā, kas ir samazinājums par aptuveni 39 %. No atlikušajām 8,77 miljoniem saimniecību gandrīz katra trešā atradās Rumānijā.",
   "textNoteDescription": "Piezīme",
-  "textNote": "sdchdc",
+  "textNote": "Kartē ir uzskaitītas visu lielumu un juridisko formu lauku saimniecības. Vidējā saimniecība pieauga no aptuveni 11 līdz 18 hektāriem.",
   "textSourceDescription": "Avots",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Piekļūstiet datiem",
-  "extraInfo_DE": "Vācija paātrina atjaunojamās enerģijas ieviešanu, paredz 80% tīras enerģijas līdz 2030. gadam",
-  "extraInfo_FR": "Francijas parlaments valsts mēroga protestu laikā apstiprina nozīmīgo imigrācijas reformas likumprojektu",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
+  "customUnitLabel": "saimniecības",
   "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
 }
