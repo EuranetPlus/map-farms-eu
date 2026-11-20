@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Combien d'exploitations agricoles l'UE a-t-elle perdues ?",
+  "subtitle": "En 2023, l'UE comptait 5,6 millions d'exploitations agricoles de moins qu'en 2005, soit une baisse estimée à 39 %. Sur les 8,77 millions d'exploitations restantes, près d'une sur trois se trouvait en Roumanie.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "La carte recense les exploitations agricoles de toutes tailles et de toutes formes juridiques. La superficie moyenne des exploitations est passée d'environ 11 à 18 hectares.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "fermes",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
