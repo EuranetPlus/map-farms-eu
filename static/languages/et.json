@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Mitu talu on EL kaotanud?",
+  "subtitle": "2023. aastaks oli ELis 5,6 miljonit põllumajandusettevõtet vähem kui 2005. aastal, mis on hinnanguline langus 39%. Järelejäänud 8,77 miljonist põllumajandusettevõttest asus peaaegu iga kolmas Rumeenias.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Kaardil on loetletud igas suuruses ja juriidilise vormiga põllumajandusettevõtted. Keskmine talu kasvas umbes 11 hektarilt 18 hektarini.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "customUnitLabel": "talud",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
